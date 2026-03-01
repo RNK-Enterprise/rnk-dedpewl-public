@@ -20,7 +20,7 @@
     "verified": "13"
   },
   "url": "https://github.com/RNK-Enterprise/rnk-dedpewl",
-  "manifest": "https://raw.githubusercontent.com/RNK-Enterprise/rnk-dedpewl-public/main/module.json",
+  "manifest": "https://cdn.jsdelivr.net/gh/RNK-Enterprise/rnk-dedpewl-public@main/module.json",
   "download": "https://raw.githubusercontent.com/RNK-Enterprise/rnk-dedpewl-public/main/module.zip",
   "esmodules": [
     "src/init.js"
@@ -64,5 +64,6 @@
     }
   }
 }
+
 
 
