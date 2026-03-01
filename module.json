@@ -14,7 +14,6 @@
     }
   ],
   "version": "1.0.0",
-  "protected": true,
   "compatibility": {
     "minimum": "11",
     "verified": "13"
