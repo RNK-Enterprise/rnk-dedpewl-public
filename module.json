@@ -18,9 +18,9 @@
     "minimum": "11",
     "verified": "13"
   },
+  "protected": true,
   "url": "https://github.com/RNK-Enterprise/rnk-dedpewl",
-  "manifest": "https://raw.githubusercontent.com/RNK-Enterprise/rnk-dedpewl-public/main/module.json",
-  "download": "https://raw.githubusercontent.com/RNK-Enterprise/rnk-dedpewl-public/main/module.zip",
+  "manifest": "https://r2.foundryvtt.com/packages-public/rnk-dedpewl/module.json",
   "esmodules": [
     "src/init.js"
   ],
